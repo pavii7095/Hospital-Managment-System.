@@ -17,6 +17,17 @@ A comprehensive local hospital management system built with Python that streamli
 - **Database**: Local database support
 - **Notifications**: Email integration for automated notifications
 
+## 📹 Demo Videos
+
+### Doctor Sign Up
+[Link to demo video of doctor registration process]
+
+### Doctor Login
+[Link to demo video of doctor login process]
+
+### Patient Login
+[Link to demo video of patient login process]
+
 ## 📦 Installation
 
 ### Prerequisites
