@@ -92,9 +92,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ### Database Issues
 - Ensure database file has proper permissions
 - Verify database initialization completed successfully
-
-## 📞 Support
-For issues, questions, or suggestions, please open an issue on the GitHub repository.
-
----
-**Last Updated**: 2026-05-20
